@@ -1,0 +1,64 @@
+.Chart{
+    width: 1920px;
+    height: 491px;
+    background-color:  #08090B;
+}
+.vec{
+    position: absolute;
+    left: 0;
+    margin-top: 88px;
+    margin-left: 160px;
+}
+.buy{
+    color: #D5EAFF;
+    font-size: 72px;
+    position: absolute;
+    left: 0;
+    margin-left: 160px;
+    margin-top: 134px;
+}
+.crip{
+    color: #D5EAFF;
+    font-size: 72px;
+    position: absolute;
+    left: 0;
+    margin-left: 160px;
+    margin-top: 214px;
+}
+.put{
+    width:315px;
+    height: 42px;
+    border: none;
+    background-color: #26314E;
+    border-radius: 6px;
+    color: #6D799C;
+    position: absolute;
+    left: 0;
+    margin-top: 352px;
+    margin-left: 160px;
+}
+.sig{
+    width: 106px;
+    height: 44px;
+    border: none;
+    background-image: linear-gradient(to bottom, #66CBF9, #0FB5FF);
+    border-radius: 6px;
+    position: absolute;
+    left: 0;
+    color: #08090B;
+    font-size: 18px;
+    margin-top: 352px;
+    margin-left: 474px;
+    cursor: pointer;
+}
+.graf{
+    position: absolute;
+    left: 0;
+    margin-left: 910px;
+    margin-top: 27px;
+}
+.mail{
+    position: absolute;
+    margin-top: 365px;
+    margin-left: 150px;
+}

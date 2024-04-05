@@ -1,0 +1,78 @@
+.group{
+    width: 1920px;
+    height: 450px;
+    background-color: #08090B;
+}
+.bit{
+    font-size: 48px;
+    position: absolute;
+    left: 0;
+    color: #D5EAFF;
+    margin-top: 88px;
+    margin-left: 220px;
+}
+.the{
+    font-size: 48px;
+    position: absolute;
+    left: 0;
+    color: #D5EAFF;
+    margin-top: 148px;
+    margin-left: 220px;
+}
+.the2{
+    color: #464E62;
+    position: absolute;
+    font-size: 18px;
+    margin-top: 232px;
+    margin-left: 220px;
+}
+.and{
+    color: #464E62;
+    position: absolute;
+    font-size: 18px;
+    margin-top: 262px;
+    margin-left: 220px;
+}
+.any{
+    color: #464E62;
+    position: absolute;
+    font-size: 18px;
+    margin-top: 292px;
+    margin-left: 220px;
+}
+.binance{
+    position: absolute;
+    left: 0;
+    margin-top: 88px;
+    margin-left: 1120px;
+}
+.bitfinex{
+    position: absolute;
+    left: 0;
+    margin-top: 216px;
+    margin-left: 1120px;
+}
+.kraken{
+    position: absolute;
+    left: 0;
+    margin-top: 325px;
+    margin-left: 1144px;
+}
+.bybit{
+    position: absolute;
+    left: 0;
+    margin-top: 88px;
+    margin-left: 1520px;
+}
+.crypto{
+    position: absolute;
+    left: 0;
+    margin-top: 216px;
+    margin-left: 1520px;
+}
+.coinbase{
+    position: absolute;
+    left: 0;
+    margin-top: 325px;
+    margin-left: 1520px;
+}

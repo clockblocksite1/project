@@ -1,0 +1,52 @@
+.reg{
+    width: 1920px;
+    height: 500px;
+    background-color: #080A0C;
+}
+.rg{
+    font-size: 48px;
+    color: #D5EAFF;
+    position: absolute;
+    left: 0;
+    margin-top: 88px;
+    margin-left: 611px;
+}
+.rg2{
+    font-size: 48px;
+    color: #D5EAFF;
+    position: absolute;
+    left: 0;
+    margin-top: 158px;
+    margin-left: 701px;
+}
+.em{
+    width: 360px;
+    height: 42px;
+    background-color: #26314E;
+    border: none;
+    border-radius: 6px;
+    color: #6D799C;
+    position: absolute;
+    left: 0;
+    margin-left: 700px;
+   margin-top: 270px;
+}
+.bog{
+    width: 106px;
+    height: 42px;
+    border-radius: 6px;
+    background-image: linear-gradient(to bottom, #66CBF9, #0FB5FF);
+    margin-top: 270px;
+    position: absolute;
+    left: 0;
+    margin-left: 1059px;
+    font-size: 18px;
+    font-weight: 500;
+    border: none;
+}
+.logo10{
+    position: absolute;
+    left: 0;
+    margin-left: 786px;
+    margin-top: 401px;
+}

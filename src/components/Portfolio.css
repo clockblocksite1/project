@@ -1,0 +1,240 @@
+.portfolio{
+    width: 1920px;
+    height: 677px;
+    background-color: #080A0C;
+}
+.icon{
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 88px;
+}
+.user{
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 160px;
+    color: #D5EAFF;
+    font-size: 20px;
+}
+.wourld{
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 190px;
+    color: #D5EAFF;
+    font-size: 20px;
+}
+.hot2{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 226px;
+}
+.hot3{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 256px;
+}
+.hot4{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 286px;
+}
+.hot5{
+    position: absolute;
+    left: 0;
+    margin-top: 88px;
+    margin-left: 809px;
+}
+.user2{
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 160px;
+    color: #D5EAFF;
+    font-size: 20px;
+}
+.hot6{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 197px;
+}
+.hot7{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 227px;
+}
+.hot8{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 257px;
+}
+.hot9{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 287px;
+}
+.icon2{
+    position: absolute;
+    left: 0;
+    margin-top: 88px;
+    margin-left: 1216px;
+
+}
+.Improved{
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 160px;
+    color: #D5EAFF;
+    font-size: 20px;
+    white-space: nowrap;
+}
+.hot10{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 197px;
+    white-space: nowrap;
+}
+.hot11{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 227px;
+    white-space: nowrap;
+}
+.hot12{
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 257px;
+    white-space: nowrap;
+}
+.icon3{
+    position: absolute;
+    left: 0;
+    margin-top: 393px;
+    margin-left: 402px;
+}
+.user4{
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 465px;
+    color: #D5EAFF;
+    font-size: 20px;
+}
+.hot13{
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 502px;
+    color: #464E62;
+    font-size: 18px;
+}
+.hot14{
+    position: absolute;
+    left: 0;
+    margin-left: 402px;
+    margin-top: 532px;
+    color: #464E62;
+    font-size: 18px;
+}
+.icon5{
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 393px;
+}
+.hot15{
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 465px;
+    color: #D5EAFF;
+    font-size: 20px;
+}
+.hot16{
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 495px;
+    color: #D5EAFF;
+    font-size: 20px;
+}
+.hot17{
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 535px;
+    color: #464E62;
+    font-size: 18px;
+}
+.hot18{
+    position: absolute;
+    left: 0;
+    margin-left: 809px;
+    margin-top: 565px;
+    color: #464E62;
+    font-size: 18px;
+}
+.icon6{
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 393px;
+}
+.user5{
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 465px;
+    color: #D5EAFF;
+    font-size: 20px;
+    white-space: nowrap;
+}
+.hot19{
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 502px;
+    color: #464E62;
+    font-size: 18px;
+    white-space: nowrap;
+}
+.hot20{
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 532px;
+    color: #464E62;
+    font-size: 18px;
+    white-space: nowrap;
+}
+.hot21{
+    position: absolute;
+    left: 0;
+    margin-left: 1216px;
+    margin-top: 562px;
+    color: #464E62;
+    font-size: 18px;
+    white-space: nowrap;
+}

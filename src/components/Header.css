@@ -1,0 +1,100 @@
+.Header {
+    width: 1920px;
+    height: 97px;
+    background-color: #08090B;
+    position: relative;
+  }
+  
+  .img {
+    position: absolute;
+    left: 0;
+    width: 197px;
+    height: 35px;
+    margin-top: 31.5px;
+    margin-left: 160px;
+  }
+  
+  .search-container {
+    position: absolute;
+    left: 0;
+    margin-top: 28px;
+    margin-left: 429px;
+    display: flex;
+  }
+  
+  .hot {
+    width: 400px;
+    height: 42px;
+    border-radius: 6px;
+    background-color: #26314E;
+    border: none;
+    color: #6D799C;
+    padding-left: 44px; 
+  }
+  
+  .hot::placeholder {
+    color: #6D799C;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: -3px;
+  }
+  
+  .search-icon {
+    width: 20px;
+    height: 20px;
+    margin-left: 16px;
+    position: absolute;
+    margin-top: 11px;
+  }
+  
+  .lg {
+    color: #464E62;
+    position: absolute;
+    left: 0;
+    font-size: 18px;
+    display: flex;
+    gap: 32px;
+    font-weight: 445;
+    margin-top: 38px;
+    margin-left: 1035px;
+  }
+  
+  .registr {
+    width: 120px;
+    height: 42px;
+    background-color: #26314E;
+    color: #CEE7FF;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 6px;
+    position: absolute;
+    left: 0;
+    margin-top: 28px;
+    margin-left: 1531px;
+  }
+  
+  .Log {
+    width: 101px;
+    height: 42px;
+    border-radius: 6px;
+    position: absolute;
+    background-image: linear-gradient(to bottom, #66CBF9, #0FB5FF);
+    color: #08090B;
+    border: none;
+    left: 0;
+    margin-top: 28px;
+    margin-left: 1659px;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  @media screen and (max-width: 430px) {
+    .img{
+        position: absolute;
+       left: 0;
+      margin-left: 10px;
+    }
+    .Header{
+        height: 120px;
+    }
+  }

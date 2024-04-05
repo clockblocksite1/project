@@ -1,0 +1,14 @@
+.trade-button {
+  width: 82px;
+  height: 34px;
+  background-color: transparent;
+  border: 1px solid #2FBDFC;
+  border-radius: 6px;
+  color: #2FBDFC;
+  cursor: pointer;
+}
+
+.trade-button:hover {
+  background-color: #2FBDFC;
+  color: white;
+}

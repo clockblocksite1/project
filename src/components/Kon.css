@@ -1,0 +1,117 @@
+.kon{
+    width: 1920px;
+    height: 410px;
+    background-color: #08090B;
+}
+.logo1{
+    position: absolute;
+    left: 0;
+    margin-left: 160px;
+    margin-top: 63px;
+
+}
+.shop{
+    position: absolute;
+    left: 0;
+    gap: 16px;
+    display: flex;
+    margin-left: 206px;
+    margin-top: 146px;
+}
+.rgi{
+    position: absolute;
+    left: 0;
+    width: 120px;
+    height: 42px;
+    background-color: #26314E;
+    border: none;
+    color: #CEE7FF;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 160px;
+    margin-top: 243px ;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.we{
+    width: 101px;
+    height: 42px;
+    border-radius: 6px;
+    position: absolute;
+    background-image: linear-gradient(to bottom, #66CBF9, #0FB5FF);
+    color: #08090B;
+    border: none;
+    left: 0;
+    margin-top: 243px;
+    margin-left: 288px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.trade{
+    position: absolute;
+    left: 0;
+    color: #464E62;
+    font-size: 18px;
+    margin-left: 1502px;
+    margin-top: 62px;
+}
+.trade2{
+    position: absolute;
+    left: 0;
+    color: #464E62;
+    font-size: 18px;
+    margin-left: 1502px;
+    margin-top: 113px;
+}
+.trade3{
+    position: absolute;
+    left: 0;
+    color: #464E62;
+    font-size: 18px;
+    margin-left: 1502px;
+    margin-top: 163px;
+}
+.trade4{
+    position: absolute;
+    left: 0;
+    color: #464E62;
+    font-size: 18px;
+    margin-left: 1502px;
+    margin-top: 213px;
+}
+.trade5{
+    position: absolute;
+    left: 0;
+    color: #464E62;
+    font-size: 18px;
+    margin-left: 1502px;
+    margin-top: 263px;
+}
+.trade6{
+    position: absolute;
+    left: 0;
+    color: #464E62;
+    font-size: 18px;
+    margin-left: 1638px;
+    margin-top: 63px;
+    white-space: nowrap;
+}
+.trade7{
+    position: absolute;
+    left: 0;
+    color: #464E62;
+    font-size: 18px;
+    margin-left: 1638px;
+    margin-top: 113px;
+    white-space: nowrap;
+}
+.trade8{
+    position: absolute;
+    left: 0;
+    color: #27314A;
+    font-size: 18px;
+    margin-left: 845px;
+    margin-top: 348px;
+    white-space: nowrap;
+}
